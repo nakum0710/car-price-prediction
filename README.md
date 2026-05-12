@@ -52,6 +52,34 @@ Target Variable:
 - Correlation analysis
 - Feature distribution
 
+#### EDA Graphs
+
+##### Target Variable Distribution
+![Price Distribution](images/price.png)
+
+##### Numerical Feature Distribution 
+![Wheelbase](images/wheelbase.png)
+![Car length](images/carlength.png)
+![Car Width](images/carwidth.png)
+![Car Height](images/carheight.png)
+![Engine Size](images/enginesize.png)
+![Horsepower](images/horsepower.png)
+![City MPG](images/citympg.png)
+![Highway MPG](images/highwaympg.png)
+
+##### Categorical Feature Distribution
+![Fuel Type](images/fueltype.png)
+![Fuel System](images/fuelsystem.png)
+![Aspiration](images/aspiration.png)
+![Engine Type](images/enginetype.png)
+![Door Number](images/doornumber.png)
+![Car Body](images/carbody.png)
+![Drive Wheel](images/drivewheel.png)
+![Cylinder Number](images/cylindernumber.png)
+
+##### Correlation Heatmap
+![Correlation Heatmap](images/heatmap.png)
+
 ### 3. Pearson Correlation Test
 Used for numerical features to identify highly correlated variables.
 
