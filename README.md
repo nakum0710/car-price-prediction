@@ -95,7 +95,7 @@ Implemented Linear Regression using Scikit-learn.
 - R2 Score: 82.662 %
 - Adjusted R2: 50.463 %
 
-#### Secomd Model
+#### Second Model
 - R2: 80.665 %
 - Adjusted R2: 75.501 %
 
